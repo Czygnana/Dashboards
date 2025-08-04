@@ -5,7 +5,7 @@ An interactive Power BI dashboard analyzing ₹1M+ in sales across various outle
 
 ## 📊 Dashboard Preview
 
-[Blinkit Dashboard](https://raw.githubusercontent.com/VamshiKunchi/Blinkit-Sales-Dashboard/main/Blinkit%20Sales%20Dashboard%20Image.png)
+
 
 ## 📁 Project Files
 
