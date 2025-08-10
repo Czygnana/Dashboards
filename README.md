@@ -15,8 +15,9 @@ An interactive Power BI dashboard analyzing Budget and FTE of employees. Built u
 ## ✅ Key Features
  
 - Cleaned the dataset and used the Invoke function to populate records for active employees, enabling accurate budget calculations.
--Implemented dynamic salary projections with a 4% increase effective May 2, 2024, and compounded annually by an additional 4% as each May 1 approaches.
+- Implemented dynamic salary projections with a 4% increase effective May 2, 2024, and compounded annually by an additional 4% as each May 1 approaches.
 - Designed clean, responsive visuals to deliver clear, actionable insights.
+- Added parameters for File path and File name to simplify data updates and eliminate manual changes.
 
 ## 🛠️ Tools & Technologies
 
@@ -25,10 +26,11 @@ An interactive Power BI dashboard analyzing Budget and FTE of employees. Built u
 
 ## 💡 Use Case
 
-Enables retail chains and grocery delivery services to:  
-- Identify high-performing outlet types and regions  
-- Analyze trends over time and optimize store operations  
-- Improve strategic decisions based on size, sales, and location visibility
+Enables the CEO to assess company costs through:
+
+- Dynamic budget comparisons — evaluate current budgets or forecast future budgets by adjusting data.
+- Seamless addition of records for active employees.
+- Enhanced strategic decision-making based on FTE and budget insights.
 
 ## 📬 Contact
 
