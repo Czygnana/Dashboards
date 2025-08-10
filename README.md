@@ -1,7 +1,7 @@
 
-# Employee Dashboard
+# Retail Sales Dashboard
 
-An interactive Power BI dashboard analyzing reatil sales. Built using Power BI.
+An interactive Power BI dashboard analyzing retail sales. Built using Power BI.
 
 
 ## 📁 Project Files
@@ -27,8 +27,8 @@ An interactive Power BI dashboard analyzing reatil sales. Built using Power BI.
 Enables the CEO to assess meaningful insights about sales:
 
 - Presented monthly revenue trend analysis to identify patterns and drive sales growth.
-- Highlighted top-performing countries and customers to uncover opportunities for increasing revenue or addressing gaps.
-- showcased Descriptive statistics to retail sales data
+- Highlighted top 10 performing countries and customers to uncover opportunities for increasing revenue or addressing gaps.
+- Showcased descriptive statistics for retail sales data to summarize key performance metrics and identify underlying patterns.
 
 ## 📬 Contact
 
