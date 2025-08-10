@@ -5,7 +5,7 @@ An interactive Power BI dashboard analyzing Budget and FTE of employees. Built u
 
 ## 📊 Dashboard Preview
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+![Screenshot (495)](https://github.com/Czygnana/Dashboards/blob/dev_dashboards/FTE_Dashboard_1stPage.png)
 
 ## 📁 Project Files
 
