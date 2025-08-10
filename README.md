@@ -1,7 +1,7 @@
 
 # Employee Dashboard
 
-An interactive Power BI dashboard analyzing ₹1M+ in sales across various outlet types, sizes, and locations. Built using Power BI and Excel.
+An interactive Power BI dashboard analyzing Budget and FTE of employees. Built using Power BI.
 
 ## 📊 Dashboard Preview
 
@@ -14,11 +14,10 @@ An interactive Power BI dashboard analyzing ₹1M+ in sales across various outle
 - ` Employee Dashboard Sales Dashboard Image.png` – Dashboard preview image
 
 ## ✅ Key Features
-
-- Dynamic filters for **City**, **Outlet Type**, and **Region**  
-- KPIs: Total Sales, Average Revenue per Store, and Item Count  
-- Sales trends segmented by **year**, **outlet type**, and **store location**  
-- Clean, responsive visuals designed for actionable insights
+ 
+- Cleaned the dataset and used the Invoke function to populate records for active employees, enabling accurate budget calculations.
+-Implemented dynamic salary projections with a 4% increase effective May 2, 2024, and compounded annually by an additional 4% as each May 1 approaches.
+- Designed clean, responsive visuals to deliver clear, actionable insights.
 
 ## 🛠️ Tools & Technologies
 
