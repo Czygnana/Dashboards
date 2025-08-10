@@ -5,13 +5,12 @@ An interactive Power BI dashboard analyzing Budget and FTE of employees. Built u
 
 ## 📊 Dashboard Preview
 
-
+![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
 
 ## 📁 Project Files
 
-- ` Employee Dashboard Dashboard.pbix` – Power BI file with data model, visuals, and DAX measures  
-- ` Employee Dashboard-Grocery-Data ws.csv` – Raw dataset used for building the dashboard  
-- ` Employee Dashboard Sales Dashboard Image.png` – Dashboard preview image
+- ` FTE _Dashboard.pbix` – Power BI file with data model, visuals, DAX measures and Power Query.
+- ` FTE_Dashboard_1stPage.png` – Dashboard preview image
 
 ## ✅ Key Features
  
@@ -22,7 +21,7 @@ An interactive Power BI dashboard analyzing Budget and FTE of employees. Built u
 ## 🛠️ Tools & Technologies
 
 - **Power BI** for dashboard creation  
-- **Microsoft Excel** for data cleaning & preprocessing
+- **Power Query** for data cleaning & Transformation.
 
 ## 💡 Use Case
 
