@@ -7,7 +7,7 @@ An interactive Power BI dashboard analyzing retail sales. Built using Power BI.
 ## 📁 Project Files
 
 - ` Retail.pbix` – Power BI file with data model, visuals, DAX measures and Power Query.
-- ` TATA_IMAGE.png` – Dashboard preview image
+- ` Sales_Dashboard.png` – Dashboard preview image
 
 ## ✅ Key Features
  
