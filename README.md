@@ -3,6 +3,9 @@
 
 An interactive Power BI dashboard analyzing retail sales. Built using Power BI.
 
+## 📊 Dashboard Preview
+
+![Screenshot (495)](https://github.com/Czygnana/Dashboards/blob/Retailsales/Sales_Dashboard.png)
 
 ## 📁 Project Files
 
